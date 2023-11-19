@@ -1,37 +1,55 @@
-# Hi there, I'm [Your Name] 👋
+# Guim Casadellà 🌟
 
-## About Me
+## 👨‍💻 Data Science Portfolio
 
-🎓 Data Scientist with a passion for turning data into actionable insights and meaningful stories.
-👨‍💻 Experienced in [List key skills like Python, R, Machine Learning, etc.]
-🌱 Currently exploring [Any new technology or area you're learning about].
-💡 I love to apply my data science skills to real-world problems.
-
-## My Work
-
-Here are some of my projects that I'm proud of:
-
-1. **[Project Name]** - [Brief description of the project]. [Link to the project repository]
-2. **[Project Name]** - [Brief description of the project]. [Link to the project repository]
-3. **[Project Name]** - [Brief description of the project]. [Link to the project repository]
-
-*Check out more of my work [here](https://github.com/guimCC?tab=repositories).*
-
-## Skills
-
-- **Languages**: Python, R, SQL
-- **Tools & Technologies**: Jupyter, Pandas, Scikit-Learn, TensorFlow, Tableau
-- **Interests**: Machine Learning, Data Visualization, Predictive Modeling
-
-## Connect with Me
-
-Feel free to connect with me on [LinkedIn](Your LinkedIn Profile URL) or reach out to me at [Your Email].
-
-## Blog Posts / Publications
-
-- *[Blog Post Title]* - [Link to blog post]
-- *[Blog Post Title]* - [Link to blog post]
+As a passionate data scientist, I believe in the power of data to solve complex problems and drive innovation. Below are some of the projects I've worked on that best showcase my skills and approach to data science.
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guimCC&show_icons=true)
+### Featured Projects
+
+#### 1. CrimeMap
+- **Overview**: [Brief description of the project. What problem does it solve or what insights does it provide?]
+- **Technologies Used**: [List of technologies, languages, or tools used, like Python, R, TensorFlow, etc.]
+- **[Link to Project](GitHub link to the project)**
+- **Key Highlights**: [A few bullet points highlighting the most impressive aspects of the project.]
+
+#### 2. Datathon FME 2023
+- **Overview**: [Description]
+- **Technologies Used**: [List]
+- **[Link to Project](GitHub link)**
+- **Key Highlights**: [Highlights]
+
+#### 3. Datathon FME 2022
+- **Overview**: [Description]
+- **Technologies Used**: [List]
+- **[Link to Project](GitHub link)**
+- **Key Highlights**: [Highlights]
+
+#### 3. HackUPC 2023
+- **Overview**: [Description]
+- **Technologies Used**: [List]
+- **[Link to Project](GitHub link)**
+- **Key Highlights**: [Highlights]
+
+*For more projects, check out [my GitHub repositories](https://github.com/guimCC?tab=repositories).*
+
+---
+
+## 🛠 Skills & Technologies
+
+- **Programming Languages**: Python, R
+- **Data Analysis Tools**: Pandas, NumPy, SciPy
+- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Database Management**: SQL, NoSQL
+- **Others**: Git, Docker, Jupyter Notebooks
+
+## 🌐 Connect with Me
+
+I'm always open to discussing data science and new opportunities. Let's connect!
+
+- LinkedIn: [guimCC](https://www.linkedin.com/in/guim-casadell%C3%A0-cors-857017253/)
+- Email: guim.casadella@gmail.com
+
+---
