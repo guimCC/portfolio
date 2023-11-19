@@ -8,11 +8,14 @@ As a passionate data scientist, I believe in the power of data to solve complex 
 
 ### Featured Projects
 
-#### 1. CrimeMap
-- **Overview**: [Brief description of the project. What problem does it solve or what insights does it provide?]
-- **Technologies Used**: [List of technologies, languages, or tools used, like Python, R, TensorFlow, etc.]
-- **[Link to Project](GitHub link to the project)**
-- **Key Highlights**: [A few bullet points highlighting the most impressive aspects of the project.]
+#### 1. CriminalMap
+- **Overview**: Developed a crime mapping app using **Python** and **C**. Implemented **A\* algorithm** variation
+for pathfinding. When computing the best route between two points, it takes in account **real time crime
+data** in order to suggest the fastest & safest route.
+- **Technologies Used**:  Python, C, Overpass API, Selenium + BeautifulSoup, Google Maps API, Matplotlib
+- **Key Highlights**: : Algorithm Design (A*), Data Flow, Data Parsing, Geospatial Analysis, Data Visualization, Web
+scraping.
+- **[GitHub link to the project](https://github.com/guimCC/CriminalMap)**
 
 #### 2. Datathon FME 2023
 - **Overview**: [Description]
