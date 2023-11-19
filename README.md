@@ -1,6 +1,6 @@
-# Guim Casadellà 🌟
+# Guim Casadellà
 
-## 👨‍💻 Data Science Portfolio
+## Data Science Portfolio
 
 As a passionate data scientist, I believe in the power of data to solve complex problems and drive innovation. Below are some of the projects I've worked on that best showcase my skills and approach to data science.
 
@@ -17,11 +17,11 @@ data** in order to suggest the fastest & safest route.
 scraping.
 - **[GitHub link to the project](https://github.com/guimCC/CriminalMap)**
 
-#### 2. Datathon FME 2023
-- **Overview**: [Description]
-- **Technologies Used**: [List]
-- **[Link to Project](GitHub link)**
-- **Key Highlights**: [Highlights]
+#### 2. Datathon FME 2023 - Outfit generator
+- **Overview**: In the Datathon FME 2023, our team developed an innovative **AI tool** that recommends outfits aligning with a brand's core philosophy. The challenge was to integrate diverse data types - from **tabular data** to **image features**. Our solution involved merging product data with **features** extracted using a **Convolutional Neural Network** (CNN), feeding this rich dataset into a **Transformer model** to generate brand-aligned outfit suggestions.
+- **Technologies Used**: Python, Pandas, TensorFlow, Matplotlib, Jupyter Notebook
+- **Key Highlights**: Data cleaning, Data preprocessing, Feature extraction, Dimensionality reduction, Fill-in-the-blank, Convolutional Neural Networks, Transformer model, Deep learning
+- **[GitHub link to the project](https://github.com/guimCC/Dathon2023-Mango)**
 
 #### 3. Datathon FME 2022
 - **Overview**: [Description]
