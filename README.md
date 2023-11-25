@@ -17,23 +17,18 @@ data** in order to suggest the fastest & safest route.
 scraping.
 - **[GitHub link to the project](https://github.com/guimCC/CriminalMap)**
 
+#### 2. NovartisDatathon 2023
+- **Overview**: Developed a **ML model** for **forecasting** a company's sales in the healthcare industry. Focused on **Time Series Analysis** for extracting information of time-dependent features such as trends, seasons,... 
+- **Technologies Used**: Python, Pandas, LightGBM 
+- **[Currently private](GitHub link)**
+- **Key Highlights**: Time Series Forecasting, Data cleaning, Lag features, Rolling Features, Feature engineering, LightGBM model
+
 #### 2. Datathon FME 2023 - Outfit generator
 - **Overview**: In the Datathon FME 2023, our team developed an innovative **AI tool** that recommends outfits aligning with a brand's core philosophy. The challenge was to integrate diverse data types - from **tabular data** to **image features**. Our solution involved merging product data with **features** extracted using a **Convolutional Neural Network** (CNN), feeding this rich dataset into a **Transformer model** to generate brand-aligned outfit suggestions.
 - **Technologies Used**: Python, Pandas, TensorFlow, Matplotlib, Jupyter Notebook
 - **Key Highlights**: Data cleaning, Data preprocessing, Feature extraction, Dimensionality reduction, Fill-in-the-blank, Convolutional Neural Networks, Transformer model, Deep learning
 - **[GitHub link to the project](https://github.com/guimCC/Dathon2023-Mango)**
 
-#### 3. Datathon FME 2022
-- **Overview**: [Description]
-- **Technologies Used**: [List]
-- **[Link to Project](GitHub link)**
-- **Key Highlights**: [Highlights]
-
-#### 3. HackUPC 2023
-- **Overview**: [Description]
-- **Technologies Used**: [List]
-- **[Link to Project](GitHub link)**
-- **Key Highlights**: [Highlights]
 
 *For more projects, check out [my GitHub repositories](https://github.com/guimCC?tab=repositories).*
 
@@ -41,12 +36,12 @@ scraping.
 
 ## 🛠 Skills & Technologies
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, R, C++, C
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
 - **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Database Management**: SQL, NoSQL
-- **Others**: Git, Docker, Jupyter Notebooks
+- **Data Visualization**: Matplotlib, Seaborn
+- **Database Management**: SQL, NoSQL, Firebase
+- **Others**: Git, Jupyter Notebooks
 
 ## 🌐 Connect with Me
 
