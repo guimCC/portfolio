@@ -19,7 +19,7 @@ scraping.
 
 #### 2. NovartisDatathon 2023
 - **Overview**: Developed a **ML model** for **forecasting** a company's sales in the healthcare industry. Focused on **Time Series Analysis** for extracting information of time-dependent features such as trends, seasons,... 
-- **Technologies Used**: Python, Pandas, LightGBM 
+- **Technologies Used**: Python, Pandas, LightGBM, Latitude
 - **[Currently private](GitHub link)**
 - **Key Highlights**: Time Series Forecasting, Data cleaning, Lag features, Rolling Features, Feature engineering, LightGBM model
 
@@ -36,11 +36,12 @@ scraping.
 
 ## 🛠 Skills & Technologies
 
-- **Programming Languages**: Python, R, C++, C
+- **Programming Languages**: Python, R, C++, C, Dart, Java
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
 - **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn
 - **Database Management**: SQL, NoSQL, Firebase
+- **Software Frameworks**: Flutter
 - **Others**: Git, Jupyter Notebooks
 
 ## 🌐 Connect with Me
