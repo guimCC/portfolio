@@ -2,13 +2,14 @@
 
 ## Data Science Portfolio
 
-As a passionate data scientist, I believe in the power of data to solve complex problems and drive innovation. Below are some of the projects I've worked on that best showcase my skills and approach to data science.
+As a passionate data scientist, I believe in the power of data to solve complex problems and drive innovation. I'm also highly interested in the research, design and development of ML and Deep Learning solutions.
 
+Below are some of the projects I've worked on that best showcase my skills and approach to data science.
 ---
 
-### Featured Projects
+## Featured Projects and Experience
 
-#### 1. CriminalMap
+### 1. CriminalMap
 - **Overview**: Developed a crime mapping app using **Python** and **C**. Implemented **A\* algorithm** variation
 for pathfinding. When computing the best route between two points, it takes in account **real time crime
 data** in order to suggest the fastest & safest route.
@@ -17,13 +18,13 @@ data** in order to suggest the fastest & safest route.
 scraping.
 - **[GitHub link to the project](https://github.com/guimCC/CriminalMap)**
 
-#### 2. NovartisDatathon 2023
+### 2. NovartisDatathon 2023
 - **Overview**: Developed a **ML model** for **forecasting** a company's sales in the healthcare industry. Focused on **Time Series Analysis** for extracting information of time-dependent features such as trends, seasons,... 
 - **Technologies Used**: Python, Pandas, LightGBM, Latitude
-- **[Currently private](GitHub link)**
 - **Key Highlights**: Time Series Forecasting, Data cleaning, Lag features, Rolling Features, Feature engineering, LightGBM model
+- **[GitHub link to the project]([GitHub link](https://github.com/guimCC/Novartis_Datathon_2023))**
 
-#### 2. Datathon FME 2023 - Outfit generator
+### 3. Datathon FME 2023 - Outfit generator
 - **Overview**: In the Datathon FME 2023, our team developed an innovative **AI tool** that recommends outfits aligning with a brand's core philosophy. The challenge was to integrate diverse data types - from **tabular data** to **image features**. Our solution involved merging product data with **features** extracted using a **Convolutional Neural Network** (CNN), feeding this rich dataset into a **Transformer model** to generate brand-aligned outfit suggestions.
 - **Technologies Used**: Python, Pandas, TensorFlow, Matplotlib, Jupyter Notebook
 - **Key Highlights**: Data cleaning, Data preprocessing, Feature extraction, Dimensionality reduction, Fill-in-the-blank, Convolutional Neural Networks, Transformer model, Deep learning
@@ -38,10 +39,11 @@ scraping.
 
 - **Programming Languages**: Python, R, C++, C, Dart, Java
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
-- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras
+- **Machine Learning Libraries**: Scikit-Learn, TensorFlow, Keras, Pytorch
+- **Deep Learning Frameworks**: **[OpenMMLab](https://openmmlab.com/)**, **[SLM Lab]([https://openmmlab.com/](https://slm-lab.gitbook.io/slm-lab/))**
 - **Data Visualization**: Matplotlib, Seaborn
 - **Database Management**: SQL, NoSQL, Firebase
-- **Software Frameworks**: Flutter
+- **Software Frameworks**: Flutter, Django
 - **Others**: Git, Jupyter Notebooks
 
 ## 🌐 Connect with Me
