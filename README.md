@@ -5,6 +5,7 @@
 As a passionate data scientist, I believe in the power of data to solve complex problems and drive innovation. I'm also highly interested in the research, design and development of ML and Deep Learning solutions.
 
 Below are some of the projects I've worked on that best showcase my skills and approach to data science.
+
 ---
 
 ## Featured Projects and Experience
