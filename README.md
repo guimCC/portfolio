@@ -24,13 +24,13 @@ Below are some of the projects I've worked on that best showcase my skills and a
 - **Overview**: Focused on domain adaptation for semantic segmentation using the LoRA (Low-Rank Adaptation) technique. The project aimed to improve model performance when transferring knowledge from synthetic to real-world datasets.
 - **Technologies Used**: Python, Pytorch, SegFormer-B0, LoRA, HuggingFace
 - **Key Highlights**: Domain Adaptation, Semantic Segmentation, Transformer-based Architecture, Low-Rank Adaptation
-- **[GitHub link to the project](https://github.com/guimCC/LoRA-for-SemanticSegmentation-domain-adaptation) | [HuggingFace link to the models and datasets](https://huggingface.co/guimCC)**
+- **[GitHub link to the project](https://github.com/guimCC/LoRA-for-SemanticSegmentation-domain-adaptation)** | **[HuggingFace link to the models and datasets](https://huggingface.co/guimCC)**
 
 ### 3. HackUPC 2024 - Inditex TECH Challenge
 - **Overview**: Developed a solution to detect duplicate or similar images in a dataset, a clothing recommendation system based on the outfit provided by the user, and an assistant system to manage out-of-stock problems for Inditex. Utilized the pre-trained model CLIP for understanding image context and semantic segmentation with a U-NET model for detecting and segmenting clothes in images.
 - **Technologies Used**: Python, Pytorch, Huggingface, CLIP, U-NET, Semantic Segmentation
 - **Key Highlights**: Image Embedding, Contextual Understanding, Clothing Recommendation, Semantic Segmentation, FrontEnd
-- **[Video Demo](https://youtu.be/62VR3V--_Sg?si=bP_nOEA_NqPDmRVg) | [GitHub link to the project](https://github.com/gerard-grau/HackUPC2024) | [Devpost](https://devpost.com/software/decode-street-style)**
+- **[Video Demo](https://youtu.be/62VR3V--_Sg?si=bP_nOEA_NqPDmRVg)** | **[GitHub link to the project](https://github.com/gerard-grau/HackUPC2024)** | **[Devpost](https://devpost.com/software/decode-street-style)**
 
 ### 4. CriminalMap
 - **Overview**: Developed a crime mapping app using **Python** and **C**. Implemented **A\* algorithm** variation for pathfinding. When computing the best route between two points, it takes in account **real time crime data** in order to suggest the fastest & safest route.
@@ -69,6 +69,6 @@ Below are some of the projects I've worked on that best showcase my skills and a
 
 I'm always open to discussing data science and new opportunities. Let's connect!
 
-- LinkedIn: [guimCC](https://www.linkedin.com/in/guim-casadell%C3%A0-cors-857017253/)
+- LinkedIn: [guimCC](https://www.linkedin.com/in/guimcc/)
 - HuggingFace: [guimCC](https://huggingface.co/guimCC)
 - Email: guim.casadella@gmail.com
