@@ -10,7 +10,21 @@ Below are some of the projects I've worked on that best showcase my skills and a
 
 ## Featured Projects and Experience
 
-### 1. Reward Optimization in Semantic Segmentation - CVC Internship
+### 1. DatathonFME 2025 WINNING PROJECT - Design Decoder MANGO challenge
+- **Awards**: First prize winners for this datathon's challenge.
+- **Overview**: Design Decoder is an AI tool aimed at making the life of designers easier by automating the process of logging new garment samples into digital systems. The model extracts design attributes from product images and metadata using a fashion-pretrained CLIP model and traditional AI models for classification.
+- **Technologies Used**: Python, PyTorch, CLIP, XGBoost, OpenCV, Streamlit, NumPy, Pandas, Scikit-learn
+- **Key Highlights**: Image Embeddings, Attribute Classification, Computer Vision, AI Automation
+- **[GitHub link to the project](https://github.com/guimCC/DesignDecoder)** | **[Kaggle link to Competition](https://www.kaggle.com/competitions/datathon-fme-mango/overview)**
+
+### 2. Fashion Sales prediction - Machine Learning Course Final Project
+- **Overview**: This Data Science project explores the viability of predicting sales of fashion articles from a multimodal dataset using traditional ML techniques. It develops several techniques to extract insigths from product metadata, images and temporal features.
+- **Technologies Used**: Python, Pandas, PyTorch, OpenCV, Matplotlib, Scikit-learn, XGBoost, SMOTE
+- **Key Highlights**: Image Embeddings, BagOfVisualWords, TimeSeries, Bootstrapping, Bagging, Regression, Classification
+- **[GitHub link to the project](https://github.com/guimCC/FashionSalesPrediction/tree/main)** | **[Dataset link](https://paperswithcode.com/dataset/visuelle)**
+
+
+### 3. Reward Optimization in Semantic Segmentation - CVC Internship
 - **Institution**: [Computer Vision Center (CVC)](https://www.cvc.uab.es/)
 - **Internship Period**: January 24 - July 10
 - **Overview**: Developed a reward optimization framework for semantic segmentation tasks during my internship at CVC. This project involved creating algorithms to improve the accuracy and efficiency of semantic segmentation models.
@@ -18,7 +32,7 @@ Below are some of the projects I've worked on that best showcase my skills and a
 - **Key Highlights**: Semantic Segmentation, Reward Optimization, Model Efficiency, Algorithm Development
 - **[GitHub link to the project](https://github.com/guimCC/Reward-Optimisation-in-Semantic-Segmentation-CVC-Internship)**
 
-### 2. LoRA for Semantic Segmentation Domain Adaptation - CVC Internship
+### 4. LoRA for Semantic Segmentation Domain Adaptation - CVC Internship
 - **Institution**: [Computer Vision Center (CVC)](https://www.cvc.uab.es/)
 - **Internship Period**: January 24 - July 10
 - **Overview**: Focused on domain adaptation for semantic segmentation using the LoRA (Low-Rank Adaptation) technique. The project aimed to improve model performance when transferring knowledge from synthetic to real-world datasets.
@@ -26,25 +40,25 @@ Below are some of the projects I've worked on that best showcase my skills and a
 - **Key Highlights**: Domain Adaptation, Semantic Segmentation, Transformer-based Architecture, Low-Rank Adaptation
 - **[GitHub link to the project](https://github.com/guimCC/LoRA-for-SemanticSegmentation-domain-adaptation)** | **[HuggingFace link to the models and datasets](https://huggingface.co/guimCC)**
 
-### 3. HackUPC 2024 - Inditex TECH Challenge
+### 5. HackUPC 2024 - Inditex TECH Challenge
 - **Overview**: Developed a solution to detect duplicate or similar images in a dataset, a clothing recommendation system based on the outfit provided by the user, and an assistant system to manage out-of-stock problems for Inditex. Utilized the pre-trained model CLIP for understanding image context and semantic segmentation with a U-NET model for detecting and segmenting clothes in images.
 - **Technologies Used**: Python, Pytorch, Huggingface, CLIP, U-NET, Semantic Segmentation
 - **Key Highlights**: Image Embedding, Contextual Understanding, Clothing Recommendation, Semantic Segmentation, FrontEnd
 - **[Video Demo](https://youtu.be/62VR3V--_Sg?si=bP_nOEA_NqPDmRVg)** | **[GitHub link to the project](https://github.com/gerard-grau/HackUPC2024)** | **[Devpost](https://devpost.com/software/decode-street-style)**
 
-### 4. CriminalMap
+### 6. CriminalMap
 - **Overview**: Developed a crime mapping app using **Python** and **C**. Implemented **A\* algorithm** variation for pathfinding. When computing the best route between two points, it takes in account **real time crime data** in order to suggest the fastest & safest route.
 - **Technologies Used**: Python, C, Overpass API, Selenium + BeautifulSoup, Google Maps API, Matplotlib
 - **Key Highlights**: Algorithm Design (A*), Data Flow, Data Parsing, Geospatial Analysis, Data Visualization, Web scraping.
 - **[GitHub link to the project](https://github.com/guimCC/CriminalMap)**
 
-### 5. NovartisDatathon 2023
+### 7. NovartisDatathon 2023
 - **Overview**: Developed a **ML model** for **forecasting** a company's sales in the healthcare industry. Focused on **Time Series Analysis** for extracting information of time-dependent features such as trends, seasons.
 - **Technologies Used**: Python, Pandas, LightGBM, Latitude
 - **Key Highlights**: Time Series Forecasting, Data cleaning, Lag features, Rolling Features, Feature engineering, LightGBM model
 - **[GitHub link to the project](https://github.com/guimCC/Novartis_Datathon_2023)**
 
-### 6. Datathon FME 2023 - Outfit generator
+### 8. Datathon FME 2023 - Outfit generator
 - **Overview**: In the Datathon FME 2023, our team developed an innovative **AI tool** that recommends outfits aligning with a brand's core philosophy. The challenge was to integrate diverse data types - from **tabular data** to **image features**. Our solution involved merging product data with **features** extracted using a **Convolutional Neural Network** (CNN), feeding this rich dataset into a **Transformer model** to generate brand-aligned outfit suggestions.
 - **Technologies Used**: Python, Pandas, TensorFlow, Matplotlib, Jupyter Notebook
 - **Key Highlights**: Data cleaning, Data preprocessing, Feature extraction, Dimensionality reduction, Fill-in-the-blank, Convolutional Neural Networks, Transformer model, Deep learning
