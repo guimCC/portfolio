@@ -10,7 +10,7 @@ Below are some of the projects I've worked on that best showcase my skills and a
 
 ## Featured Projects and Experience
 
-### 1. DatathonFME 2025 WINNING PROJECT - Design Decoder MANGO challenge
+### 1. DatathonFME 2024 WINNING PROJECT - Design Decoder MANGO challenge
 - **Awards**: First prize winners for this datathon's challenge.
 - **Overview**: Design Decoder is an AI tool aimed at making the life of designers easier by automating the process of logging new garment samples into digital systems. The model extracts design attributes from product images and metadata using a fashion-pretrained CLIP model and traditional AI models for classification.
 - **Technologies Used**: Python, PyTorch, CLIP, XGBoost, OpenCV, Streamlit, NumPy, Pandas, Scikit-learn
